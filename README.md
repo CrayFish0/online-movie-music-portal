@@ -13,32 +13,44 @@ This project consists of a simple web application built using HTML, CSS, and Jav
 - Featured Movies section displaying images of selected movies.
 - Responsive design for optimal viewing on various devices.
 
-![Website Preview](Assets/Website.png)
-
+<p align="center">
+  <img src="Assets/Website.png" alt="Website Preview"/>
+</p>
 
 ## Information Flow
 
 ### Dataflow Diagram
 
-![DattaFlow Diagram - Level 1](Assets/DFDLevel1.png)
-
-![DattaFlow Diagram - Level 1](Assets/DFDLevel2.png)
+<p align="center">
+  <img src="Assets/DFDLevel1.png" alt="DattaFlow Diagram - Level 1"/>
+</p>
+<p align="center">
+  <img src="Assets/DFDLevel2.png" alt="DattaFlow Diagram - Level 2"/>
+</p>
 
 ### Use Case Diagram
 
-![DattaFlow Diagram - Level 1](Assets/UseCaseDiagram.png)
+<p align="center">
+  <img src="Assets/UseCaseDiagram.png" alt="Use Case Diagram"/>
+</p>
 
 ### Sequence Diagram
 
-![DattaFlow Diagram - Level 1](Assets/SequenceDiagram.png)
+<p align="center">
+  <img src="Assets/SequenceDiagram.png" alt="Sequence Diagram"/>
+</p>
 
 ### Class Diagram
 
-![DattaFlow Diagram - Level 1](Assets/ClassDiagram.png)
+<p align="center">
+  <img src="Assets/ClassDiagram.png" alt="Class Diagram"/>
+</p>
 
 ### Activity Diagram
 
-![DattaFlow Diagram - Level 1](Assets/ActivityDiagram.png)
+<p align="center">
+  <img src="Assets/ActivityDiagram.png" alt="Activity Diagram"/>
+</p>
 
 ## Usage
 
