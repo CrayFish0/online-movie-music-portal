@@ -58,5 +58,5 @@ To use the Online Music/Movie Portal, simply open the `index.html` file in a web
 
 ## Credits
 
-This project was created by *Soumyojit Sen Gupta, Subhajit Santra, Muskan Parwin, Anushka Jana* as a demonstration of basic web development skills.
+This project was created by Soumyojit Sen Gupta, Subhajit Santra, Muskan Parwin, Anushka Jana as a demonstration of basic web development skills.
 
