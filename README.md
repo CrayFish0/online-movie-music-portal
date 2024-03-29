@@ -5,7 +5,7 @@ Welcome to our Online Music/Movie Portal! This portal provides users with access
 ## Description
 
 This project consists of a simple web application built using HTML, CSS, and JavaScript. It offers a user-friendly interface for browsing featured music and movies.
-
+> Checkout the site at [Click Here](https://crayfish0.github.io/online-movie-music-portal/)
 ## Features
 
 - Navigation menu for easy access to different sections (Home, Music, Movies).
